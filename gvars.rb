@@ -3,7 +3,7 @@ require 'formula'
 class Gvars < Formula
   homepage 'http://www.edwardrosten.com/cvd/gvars3.html'
   url 'http://www.edwardrosten.com/cvd/gvars-3.0.tar.gz'
-  sha1 '215d68f2358062d83ac86b14ec2944513b15b62b'
+  sha256 'fc051961d4da5dce99a20f525dc1e98368f7283aed7b20e68ffb35e34ac3f5fa'
   head 'https://github.com/edrosten/gvars.git'
 
   depends_on :x11

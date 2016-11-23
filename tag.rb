@@ -7,7 +7,7 @@ require 'formula'
 class Tag < Formula
   homepage ''
   url 'http://www.edwardrosten.com/cvd/tag-20090724.tar.gz'
-  sha1 '77ef87ae6b6312972ae77b3e372b15e3d173dd59'
+  sha256 '44941a71a68eadf41246bdd5a0f54092f14119980964b28a25467a7c79ace3f8'
 
   depends_on 'TooN' 
 
